@@ -1,7 +1,7 @@
 {
-  "name": "antd-img-crop",
-  "version": "4.25.0",
-  "description": "An image cropper for Ant Design Upload",
+  "name": "antd-transparent-img-crop",
+  "version": "1.0.0",
+  "description": "An Ant Design Upload image cropper with support for transparent backgrounds",
   "keywords": [
     "react",
     "antd",
@@ -9,13 +9,14 @@
     "upload",
     "image",
     "crop",
-    "cropper"
+    "cropper",
+    "transparent"
   ],
   "license": "MIT",
-  "author": "nanxiaobei <nanxiaobei@gmail.com> (https://github.com/nanxiaobei)",
-  "homepage": "https://github.com/nanxiaobei/antd-img-crop",
-  "repository": "github:nanxiaobei/antd-img-crop",
-  "bugs": "https://github.com/nanxiaobei/antd-img-crop/issues",
+  "author": "shibichakkaravarthy <shibi2591999@gmail.com> (https://github.com/shibichakkaravarthy)",
+  "homepage": "https://github.com/shibichakkaravarthy/antd-img-crop",
+  "repository": "github:shibichakkaravarthy/antd-img-crop",
+  "bugs": "https://github.com/shibichakkaravarthy/antd-img-crop/issues",
   "main": "dist/antd-img-crop.cjs.js",
   "module": "dist/antd-img-crop.esm.js",
   "types": "dist/antd-img-crop.d.ts",
