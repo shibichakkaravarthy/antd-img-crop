@@ -20,7 +20,7 @@ export type { ImgCropProps } from './types';
 const ImgCrop = forwardRef<CropperRef, ImgCropProps>((props, cropperRef) => {
   const {
     quality = 0.4,
-    fillColor = 'white',
+    fillColor = 'transparent',
 
     zoomSlider = true,
     rotationSlider = false,
